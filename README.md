@@ -7,4 +7,6 @@
 * [Persistent Bugger.](6kyu/Persistent%20Bugger..cs)
 * [Counting Duplicates](6kyu/Counting%20Duplicates.cs)
 * [Stop gninnipS My sdroW!](6kyu/Stop%20gninnipS%20My%20sdroW!)
-* [Directions Reduction](6kyu/Directions%20Reduction)
+
+## 5 kyu
+* [Directions Reduction](5kyu/Directions%20Reduction)
