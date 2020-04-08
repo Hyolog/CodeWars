@@ -10,3 +10,4 @@
 
 ## 5 kyu
 * [Directions Reduction](5kyu/Directions%20Reduction)
+* [Simple Pig Latin](5kyu/Simple%20Pig%20Latin)
