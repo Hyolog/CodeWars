@@ -10,6 +10,7 @@
 * [Take a Ten Minute Walk](6kyu/Take%20a%20Ten%20Minute%20Walk)
 * [Dubstep](6kyu/Dubstep)
 * [Who likes it](6kyu/Who%20likes%20it)
+* [Your order, please](6kyu/Your%20order,%20please)
 
 ## 5 kyu
 * [Directions Reduction](5kyu/Directions%20Reduction)
