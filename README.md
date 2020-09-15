@@ -11,7 +11,7 @@
 * [Dubstep](6kyu/Dubstep)
 * [Who likes it](6kyu/Who%20likes%20it)
 * [Your order, please](6kyu/Your%20order,%20please)
-* [IQTest](6kyu/IQTest)
+* [IQTest](6kyu/IQ%20Test)
 
 ## 5 kyu
 * [Directions Reduction](5kyu/Directions%20Reduction)
