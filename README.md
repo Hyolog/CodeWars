@@ -9,7 +9,8 @@
 * [Stop gninnipS My sdroW!](6kyu/Stop%20gninnipS%20My%20sdroW!)
 * [Take a Ten Minute Walk](6kyu/Take%20a%20Ten%20Minute%20Walk)
 * [Dubstep](6kyu/Dubstep)
-* [Who likes it](6kyu/Who likes it)
+* [Who likes it](6kyu/Who%20likes%20it)
+* [Your order, please](6kyu/Your%20order,%20please)
 * [IQTest](6kyu/IQTest)
 
 ## 5 kyu
