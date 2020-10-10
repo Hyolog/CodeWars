@@ -12,6 +12,7 @@
 * [Who likes it](6kyu/Who%20likes%20it)
 * [Your order, please](6kyu/Your%20order,%20please)
 * [IQTest](6kyu/IQTest)
+* [Valid Braces](6kyu/Valid%20Braces)
 
 ## 5 kyu
 * [Directions Reduction](5kyu/Directions%20Reduction)
