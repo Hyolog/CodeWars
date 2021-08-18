@@ -16,6 +16,7 @@
 * [Count the smiley faces!](6kyu/Count%20the%20smiley%20faces!.cs)
 * [CamelCase Method](6kyu/CamelCase%20Method.cs)
 * [Vasya - Clerk](6kyu/Vasya%20-%20Clerk.cs)
+* [BouncingBall](CodeWars\CodeWars\BouncingBalls.cs)
 
 ## 5 kyu
 * [Directions Reduction](5kyu/Directions%20Reduction.cs)
