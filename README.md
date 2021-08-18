@@ -15,6 +15,7 @@
 * [Valid Braces](6kyu/Valid%20Braces.cs)
 * [Count the smiley faces!](6kyu/Count%20the%20smiley%20faces!.cs)
 * [CamelCase Method](6kyu/CamelCase%20Method.cs)
+* [Vasya - Clerk](6kyu/Vasya%20-%20Clerk.cs)
 
 ## 5 kyu
 * [Directions Reduction](5kyu/Directions%20Reduction.cs)
