@@ -13,8 +13,8 @@
 * [Your order, please](6kyu/Your%20order,%20please.cs)
 * [IQTest](6kyu/IQTest.cs)
 * [Valid Braces](6kyu/Valid%20Braces.cs)
-* [Count the smiley faces!](6kyu/Count%20the%20smiley%20faces!.cs)
-* [CamelCase Method](6kyu/CamelCase%20Method.cs)
+* [Count the smiley faces!](CodeWars/CodeWars/CountTheSmileyFaces.cs)
+* [CamelCase Method](CodeWars/CodeWars/CamelCaseMethod.cs)
 * [Vasya - Clerk](6kyu/Vasya%20-%20Clerk.cs)
 * [BouncingBall](CodeWars/CodeWars/BouncingBalls.cs)
 
