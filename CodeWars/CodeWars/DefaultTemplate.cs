@@ -4,11 +4,13 @@ namespace CodeWars
 {
     /// <see cref=""/>
     [TestClass]
-    public class DefaultTemplate
+    public static class DefaultTemplate
     {
         [TestMethod]
-        public void Test()
+        public static void Test()
         {
         }
+
+
     }
 }
