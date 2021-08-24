@@ -6,10 +6,10 @@ namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/54da5a58ea159efa38000836/csharp"/>
     [TestClass]
-    public static class FindTheOddInt
+    public class FindTheOddInt
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 

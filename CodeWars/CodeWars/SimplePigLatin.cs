@@ -1,16 +1,14 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Linq;
 using System.Collections.Generic;
 
 namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/520b9d2ad5c005041100000f/csharp"/>
     [TestClass]
-    public static class SimplePigLatin
+    public class SimplePigLatin
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 

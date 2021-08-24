@@ -4,10 +4,10 @@ namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/csharp"/>
     [TestClass]
-    public static class WhoLikesIt
+    public class WhoLikesIt
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 

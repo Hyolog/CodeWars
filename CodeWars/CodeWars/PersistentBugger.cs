@@ -5,10 +5,10 @@ namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/csharp"/>
     [TestClass]
-    public static class PersistentBugger
+    public class PersistentBugger
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 

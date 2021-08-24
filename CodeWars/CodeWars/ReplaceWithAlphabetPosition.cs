@@ -4,10 +4,10 @@ namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/546f922b54af40e1e90001da/solutions/csharp"/>
     [TestClass]
-    public static class ReplaceWithAlphabetPosition
+    public class ReplaceWithAlphabetPosition
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 

@@ -6,10 +6,10 @@ namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/552c028c030765286c00007d/solutions/csharp"/>
     [TestClass]
-    public static class IQTest
+    public class IQTest
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 

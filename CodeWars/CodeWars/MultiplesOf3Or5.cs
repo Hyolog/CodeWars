@@ -4,10 +4,10 @@ namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/514b92a657cdc65150000006/csharp"/>
     [TestClass]
-    public static class MultiplesOf3Or5
+    public class MultiplesOf3Or5
     {
         [TestMethod]
-        public static void Test()
+        public void Test()
         {
         }
 
