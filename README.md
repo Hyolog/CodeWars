@@ -17,6 +17,7 @@
 * [CamelCase Method](CodeWars/CodeWars/CamelCaseMethod.cs)
 * [VasyaClerk](CodeWars/CodeWars/VasyaClerk.cs)
 * [Bouncing Ball](CodeWars/CodeWars/BouncingBalls.cs)
+* [Hidden "Cubic" numbers](CodeWars/CodeWars/HiddenCubicNumbers.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
