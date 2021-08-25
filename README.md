@@ -18,6 +18,7 @@
 * [VasyaClerk](CodeWars/CodeWars/VasyaClerk.cs)
 * [Bouncing Ball](CodeWars/CodeWars/BouncingBalls.cs)
 * [Hidden "Cubic" numbers](CodeWars/CodeWars/HiddenCubicNumbers.cs)
+* [Moduli number system](CodeWars/CodeWars/ModuliNumberSystem.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
