@@ -19,6 +19,7 @@
 * [Bouncing Ball](CodeWars/CodeWars/BouncingBalls.cs)
 * [Hidden "Cubic" numbers](CodeWars/CodeWars/HiddenCubicNumbers.cs)
 * [Moduli number system](CodeWars/CodeWars/ModuliNumberSystem.cs)
+* [Array.diff](CodeWars/CodeWars/ArrayDiff.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
