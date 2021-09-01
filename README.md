@@ -25,3 +25,4 @@
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
 * [Simple Pig Latin](CodeWars/CodeWars/SimplePigLatin.cs)
+* [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)
