@@ -20,6 +20,7 @@
 * [Hidden "Cubic" numbers](CodeWars/CodeWars/HiddenCubicNumbers.cs)
 * [Moduli number system](CodeWars/CodeWars/ModuliNumberSystem.cs)
 * [Array.diff](CodeWars/CodeWars/ArrayDiff.cs)
+* [Highest Scoring Word](CodeWars/CodeWars/HighestScoringWord.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
