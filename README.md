@@ -21,6 +21,7 @@
 * [Moduli number system](CodeWars/CodeWars/ModuliNumberSystem.cs)
 * [Array.diff](CodeWars/CodeWars/ArrayDiff.cs)
 * [Highest Scoring Word](CodeWars/CodeWars/HighestScoringWord.cs)
+* [Are they the "same"?](CodeWars/CodeWars/AreTheyTheSame.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
