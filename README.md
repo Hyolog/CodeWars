@@ -31,6 +31,7 @@
 * [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)
 * [Valid Parenthese](CodeWars/CodeWars/VaildParentheses.cs)
 * [Moving Zeros To The End](CodeWars/CodeWars/MovingZeroToTheEnd.cs)
+* [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
