@@ -23,6 +23,7 @@
 * [Highest Scoring Word](CodeWars/CodeWars/HighestScoringWord.cs)
 * [Are they the "same"?](CodeWars/CodeWars/AreTheyTheSame.cs)
 * [Sum of Digits / Digital Root](CodeWars/CodeWars/SumOfDigitsDigitalRoot.cs)
+* [Decode the Morse code](CodeWars/CodeWars/DecodeTheMorseCode.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
