@@ -24,6 +24,7 @@
 * [Are they the "same"?](CodeWars/CodeWars/AreTheyTheSame.cs)
 * [Sum of Digits / Digital Root](CodeWars/CodeWars/SumOfDigitsDigitalRoot.cs)
 * [Decode the Morse code](CodeWars/CodeWars/DecodeTheMorseCode.cs)
+* [Bit Counting](CodeWars/CodeWars/BitCounting.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
