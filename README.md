@@ -34,6 +34,7 @@
 * [Valid Parenthese](CodeWars/CodeWars/VaildParentheses.cs)
 * [Moving Zeros To The End](CodeWars/CodeWars/MovingZeroToTheEnd.cs)
 * [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
+* [Where my anagrams at?](CodeWars/CodeWars/WhereMyAnagramsAt.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
