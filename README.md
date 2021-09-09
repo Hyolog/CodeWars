@@ -26,6 +26,7 @@
 * [Decode the Morse code](CodeWars/CodeWars/DecodeTheMorseCode.cs)
 * [Bit Counting](CodeWars/CodeWars/BitCounting.cs)
 * [Build Tower](CodeWars/CodeWars/BuildTower.cs)
+* [Playing with digits](CodeWars/CodeWars/BuildTower.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
