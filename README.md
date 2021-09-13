@@ -27,6 +27,7 @@
 * [Bit Counting](CodeWars/CodeWars/BitCounting.cs)
 * [Build Tower](CodeWars/CodeWars/BuildTower.cs)
 * [Playing with digits](CodeWars/CodeWars/BuildTower.cs)
+* [Duplicate Encoder](CodeWars/CodeWars/DuplicateEncoder.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
