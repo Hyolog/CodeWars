@@ -38,6 +38,7 @@
 * [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
 * [Where my anagrams at?](CodeWars/CodeWars/WhereMyAnagramsAt.cs)
 * [Human Readable Time](CodeWars/CodeWars/HumanReadableTime.cs)
+* [Product of consecutive Fib numbers](CodeWars/CodeWars/ProductOfConsecutiveFibNumbers.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
