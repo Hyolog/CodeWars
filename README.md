@@ -44,3 +44,4 @@
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
+* [Sudoku Solution Validator](CodeWars/CodeWars/SudokuSolutionValidator.cs)
