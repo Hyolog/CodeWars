@@ -40,6 +40,7 @@
 * [Where my anagrams at?](CodeWars/CodeWars/WhereMyAnagramsAt.cs)
 * [Human Readable Time](CodeWars/CodeWars/HumanReadableTime.cs)
 * [Product of consecutive Fib numbers](CodeWars/CodeWars/ProductOfConsecutiveFibNumbers.cs)
+* [Rot13](CodeWars/CodeWars/Rot13.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
