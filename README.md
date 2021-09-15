@@ -29,6 +29,7 @@
 * [Playing with digits](CodeWars/CodeWars/BuildTower.cs)
 * [Duplicate Encoder](CodeWars/CodeWars/DuplicateEncoder.cs)
 * [Create Phone Number](CodeWars/CodeWars/CreatePhoneNumber.cs)
+* [Tribonacci Sequence](CodeWars/CodeWars/TribonacciSequence.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
