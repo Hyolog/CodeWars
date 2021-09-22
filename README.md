@@ -43,6 +43,7 @@
 * [Human Readable Time](CodeWars/CodeWars/HumanReadableTime.cs)
 * [Product of consecutive Fib numbers](CodeWars/CodeWars/ProductOfConsecutiveFibNumbers.cs)
 * [Rot13](CodeWars/CodeWars/Rot13.cs)
+* [RGB To Hex Conversion](CodeWars/CodeWars/RGBToHexConversion.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
