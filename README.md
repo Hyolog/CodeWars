@@ -31,6 +31,7 @@
 * [Create Phone Number](CodeWars/CodeWars/CreatePhoneNumber.cs)
 * [Tribonacci Sequence](CodeWars/CodeWars/TribonacciSequence.cs)
 * [Unique In Order](CodeWars/CodeWars/UniqueInOrder.cs)
+* [Convert string to camel case](CodeWars/CodeWars/UniqueInOrder.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
