@@ -86,7 +86,6 @@ C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\z
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csproj.AssemblyReference.cache
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfoInputs.cache
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfo.cs
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csproj.CoreCompileInputs.cache

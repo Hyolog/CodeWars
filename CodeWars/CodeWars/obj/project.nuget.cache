@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUBFXnayv9ZF4O1/YwiGfcLRmdl14fdXTFsQIHWeG0bF2pEUxuvivy2N0NCMxDI23WVacJhVnGPN0JUVWUifdA==",
+  "dgSpecHash": "zoQ7ezMYSLJBY/suBOwe5BcVNqPWzsYEgbIw3pWL+hhNFg3AumcF0dR4VshMyPzJV50DlTHP/jIm4buridRw1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soejd\\source\\repos\\CodeWars\\CodeWars\\CodeWars\\CodeWars.csproj",
+  "projectFilePath": "C:\\Users\\soejd\\Source\\Repos\\CodeWars\\CodeWars\\CodeWars\\CodeWars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soejd\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\soejd\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
