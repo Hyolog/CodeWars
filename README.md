@@ -32,6 +32,7 @@
 * [Tribonacci Sequence](CodeWars/CodeWars/TribonacciSequence.cs)
 * [Unique In Order](CodeWars/CodeWars/UniqueInOrder.cs)
 * [Convert string to camel case](CodeWars/CodeWars/UniqueInOrder.cs)
+* [Sort the odd](CodeWars/CodeWars/SortTheOdd.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
