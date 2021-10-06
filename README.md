@@ -48,6 +48,7 @@
 * [Rot13](CodeWars/CodeWars/Rot13.cs)
 * [RGB To Hex Conversion](CodeWars/CodeWars/RGBToHexConversion.cs)
 * [Pick peaks](CodeWars/CodeWars/PickPeaks.cs)
+* [Scramblies](CodeWars/CodeWars/Scramblies.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
