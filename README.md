@@ -53,3 +53,4 @@
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
 * [Sudoku Solution Validator](CodeWars/CodeWars/SudokuSolutionValidator.cs)
+* [Next bigger number with the same digits](CodeWars/CodeWars/NextBiggerNumberWithTheSameDigits.cs)
