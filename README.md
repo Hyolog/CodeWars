@@ -50,6 +50,7 @@
 * [RGB To Hex Conversion](CodeWars/CodeWars/RGBToHexConversion.cs)
 * [Pick peaks](CodeWars/CodeWars/PickPeaks.cs)
 * [Scramblies](CodeWars/CodeWars/Scramblies.cs)
+* [Greed is Good](CodeWars/CodeWars/GreedIsGood.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
