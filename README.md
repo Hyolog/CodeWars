@@ -35,6 +35,7 @@
 * [Sort the odd](CodeWars/CodeWars/SortTheOdd.cs)
 * [Find the missing letter](CodeWars/CodeWars/FindTheMissingLetter.cs)
 * [Consecutive strings](CodeWars/CodeWars/ConsecutiveStrings.cs)
+* [Roman Numerals Encoder](CodeWars/CodeWars/RomanNumeralsEncoder.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
