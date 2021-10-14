@@ -36,6 +36,7 @@
 * [Find the missing letter](CodeWars/CodeWars/FindTheMissingLetter.cs)
 * [Consecutive strings](CodeWars/CodeWars/ConsecutiveStrings.cs)
 * [Roman Numerals Encoder](CodeWars/CodeWars/RomanNumeralsEncoder.cs)
+* [Does my number look big in this?](CodeWars/CodeWars/DoesMyNumberLookBigInThis.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
