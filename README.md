@@ -37,6 +37,7 @@
 * [Consecutive strings](CodeWars/CodeWars/ConsecutiveStrings.cs)
 * [Roman Numerals Encoder](CodeWars/CodeWars/RomanNumeralsEncoder.cs)
 * [Does my number look big in this?](CodeWars/CodeWars/DoesMyNumberLookBigInThis.cs)
+* [Build a pile of Cubes](CodeWars/CodeWars/BuildAPileOfCubes.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
