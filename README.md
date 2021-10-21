@@ -39,6 +39,7 @@
 * [Does my number look big in this?](CodeWars/CodeWars/DoesMyNumberLookBigInThis.cs)
 * [Build a pile of Cubes](CodeWars/CodeWars/BuildAPileOfCubes.cs)
 * [Sums of Parts](CodeWars/CodeWars/SumsOfParts.cs)
+* [Write Number in Expanded Form](CodeWars/CodeWars/WriteNumberInExpandedForm.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
