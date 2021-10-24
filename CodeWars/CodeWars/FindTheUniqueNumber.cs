@@ -5,6 +5,7 @@ using System.Linq;
 namespace CodeWars
 {
     /// <see cref="https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/csharp"/>
+    /// TODO : Linq로 다시 풀어보기
     [TestClass]
     public class FindTheUniqueNumber
     {
