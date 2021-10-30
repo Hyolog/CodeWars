@@ -41,6 +41,7 @@
 * [Sums of Parts](CodeWars/CodeWars/SumsOfParts.cs)
 * [Write Number in Expanded Form](CodeWars/CodeWars/WriteNumberInExpandedForm.cs)
 * [Find the unique number](CodeWars/CodeWars/FindTheUniqueNumber.cs)
+* [Detect Pangram](CodeWars/CodeWars/DetectPangram.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
