@@ -43,6 +43,7 @@
 * [Find the unique number](CodeWars/CodeWars/FindTheUniqueNumber.cs)
 * [Detect Pangram](CodeWars/CodeWars/DetectPangram.cs)
 * [The Supermarket Queue](CodeWars/CodeWars/TheSupermarketQueue.cs)
+* [Mexican Wave](CodeWars/CodeWars/MexicanWave.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
