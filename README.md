@@ -42,6 +42,7 @@
 * [Write Number in Expanded Form](CodeWars/CodeWars/WriteNumberInExpandedForm.cs)
 * [Find the unique number](CodeWars/CodeWars/FindTheUniqueNumber.cs)
 * [Detect Pangram](CodeWars/CodeWars/DetectPangram.cs)
+* [The Supermarket Queue](CodeWars/CodeWars/TheSupermarketQueue.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
