@@ -44,6 +44,7 @@
 * [Detect Pangram](CodeWars/CodeWars/DetectPangram.cs)
 * [The Supermarket Queue](CodeWars/CodeWars/TheSupermarketQueue.cs)
 * [Mexican Wave](CodeWars/CodeWars/MexicanWave.cs)
+* [Which are in?](CodeWars/CodeWars/WhichAreIn.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
