@@ -45,6 +45,7 @@
 * [The Supermarket Queue](CodeWars/CodeWars/TheSupermarketQueue.cs)
 * [Mexican Wave](CodeWars/CodeWars/MexicanWave.cs)
 * [Which are in?](CodeWars/CodeWars/WhichAreIn.cs)
+* [Is a number prime?](CodeWars/CodeWars/IsANumberPrime.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
