@@ -62,6 +62,7 @@
 * [Scramblies](CodeWars/CodeWars/Scramblies.cs)
 * [Greed is Good](CodeWars/CodeWars/GreedIsGood.cs)
 * [Double Cola](CodeWars/CodeWars/DoubleCola.cs)
+* [Gap in Primes](CodeWars/CodeWars/GapInPrimes.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
