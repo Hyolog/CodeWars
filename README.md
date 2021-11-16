@@ -48,6 +48,7 @@
 * [Is a number prime?](CodeWars/CodeWars/IsANumberPrime.cs)
 * [Split Strings](CodeWars/CodeWars/SplitStrings.cs)
 * [Count characters in your string](CodeWars/CodeWars/CountCharactersInYourString.cs)
+* [Rectangle into Squares](CodeWars/CodeWars/RectangleIntoSquares.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
