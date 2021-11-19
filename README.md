@@ -49,6 +49,7 @@
 * [Split Strings](CodeWars/CodeWars/SplitStrings.cs)
 * [Count characters in your string](CodeWars/CodeWars/CountCharactersInYourString.cs)
 * [Rectangle into Squares](CodeWars/CodeWars/RectangleIntoSquares.cs)
+* [Break camelCase](CodeWars/CodeWars/BreakCamelCase.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
