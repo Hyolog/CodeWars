@@ -50,6 +50,7 @@
 * [Count characters in your string](CodeWars/CodeWars/CountCharactersInYourString.cs)
 * [Rectangle into Squares](CodeWars/CodeWars/RectangleIntoSquares.cs)
 * [Break camelCase](CodeWars/CodeWars/BreakCamelCase.cs)
+* [Good vs Evil](CodeWars/CodeWars/GoodVsEvil.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
