@@ -51,6 +51,7 @@
 * [Rectangle into Squares](CodeWars/CodeWars/RectangleIntoSquares.cs)
 * [Break camelCase](CodeWars/CodeWars/BreakCamelCase.cs)
 * [Good vs Evil](CodeWars/CodeWars/GoodVsEvil.cs)
+* [Make the Deadfish swim](CodeWars/CodeWars/MakeTheDeadfishSwim.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)

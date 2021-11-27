@@ -94,3 +94,4 @@ C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\C
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.pdb
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.genruntimeconfig.cache
 C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soejd\source\repos\CodeWars\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csproj.AssemblyReference.cache
