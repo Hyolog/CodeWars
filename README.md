@@ -72,6 +72,7 @@
 * [Greed is Good](CodeWars/CodeWars/GreedIsGood.cs)
 * [Double Cola](CodeWars/CodeWars/DoubleCola.cs)
 * [Gap in Primes](CodeWars/CodeWars/GapInPrimes.cs)
+* [Did I Finish my Sudoku?](CodeWars/CodeWars/DidIFinishMySudoku.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
