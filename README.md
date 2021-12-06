@@ -52,6 +52,7 @@
 * [Break camelCase](CodeWars/CodeWars/BreakCamelCase.cs)
 * [Good vs Evil](CodeWars/CodeWars/GoodVsEvil.cs)
 * [Make the Deadfish swim](CodeWars/CodeWars/MakeTheDeadfishSwim.cs)
+* [Delete occurrences of an element if it occurs more than n times](CodeWars/CodeWars/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
