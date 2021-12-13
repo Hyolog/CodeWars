@@ -55,6 +55,7 @@
 * [Delete occurrences of an element if it occurs more than n times](CodeWars/CodeWars/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes.cs)
 * [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¢®Eureka!!](CodeWars/CodeWars/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka.cs)
 * [Roman Numerals Decoder](CodeWars/CodeWars/RomanNumeralsDecoder.cs)
+* [IP Validation](CodeWars/CodeWars/IPValidation.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
@@ -62,6 +63,7 @@
 * [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)
 * [Valid Parenthese](CodeWars/CodeWars/VaildParentheses.cs)
 * [Moving Zeros To The End](CodeWars/CodeWars/MovingZeroToTheEnd.cs)
+
 * [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
 * [Where my anagrams at?](CodeWars/CodeWars/WhereMyAnagramsAt.cs)
 * [Human Readable Time](CodeWars/CodeWars/HumanReadableTime.cs)
