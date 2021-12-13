@@ -54,6 +54,7 @@
 * [Make the Deadfish swim](CodeWars/CodeWars/MakeTheDeadfishSwim.cs)
 * [Delete occurrences of an element if it occurs more than n times](CodeWars/CodeWars/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes.cs)
 * [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¢®Eureka!!](CodeWars/CodeWars/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka.cs)
+* [Roman Numerals Decoder](CodeWars/CodeWars/RomanNumeralsDecoder.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
