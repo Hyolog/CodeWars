@@ -56,6 +56,7 @@
 * [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¢®Eureka!!](CodeWars/CodeWars/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka.cs)
 * [Roman Numerals Decoder](CodeWars/CodeWars/RomanNumeralsDecoder.cs)
 * [IP Validation](CodeWars/CodeWars/IPValidation.cs)
+* [Help the bookseller !](CodeWars/CodeWars/HelpTheBookseller.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
