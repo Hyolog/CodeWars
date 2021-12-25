@@ -57,6 +57,7 @@
 * [Roman Numerals Decoder](CodeWars/CodeWars/RomanNumeralsDecoder.cs)
 * [IP Validation](CodeWars/CodeWars/IPValidation.cs)
 * [Help the bookseller !](CodeWars/CodeWars/HelpTheBookseller.cs)
+* [Find the missing term in an Arithmetic Progression](CodeWars/CodeWars/FindTheMissingTermInAnArithmeticProgression.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
