@@ -60,6 +60,7 @@
 * [Find the missing term in an Arithmetic Progression](CodeWars/CodeWars/FindTheMissingTermInAnArithmeticProgression.cs)
 * [Encrypt this!](CodeWars/CodeWars/EncryptThis.cs)
 * [WeIrD StRiNg CaSe](CodeWars/CodeWars/WeIrDStRiNgCaSe.cs)
+* [Tortoise racing](CodeWars/CodeWars/TortoiseRacing.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
