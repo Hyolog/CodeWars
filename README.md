@@ -59,6 +59,7 @@
 * [Help the bookseller !](CodeWars/CodeWars/HelpTheBookseller.cs)
 * [Find the missing term in an Arithmetic Progression](CodeWars/CodeWars/FindTheMissingTermInAnArithmeticProgression.cs)
 * [Encrypt this!](CodeWars/CodeWars/EncryptThis.cs)
+* [WeIrD StRiNg CaSe](CodeWars/CodeWars/WeIrDStRiNgCaSe.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
