@@ -61,6 +61,7 @@
 * [Encrypt this!](CodeWars/CodeWars/EncryptThis.cs)
 * [WeIrD StRiNg CaSe](CodeWars/CodeWars/WeIrDStRiNgCaSe.cs)
 * [Tortoise racing](CodeWars/CodeWars/TortoiseRacing.cs)
+* [Simple Encryption #1 - Alternating Split](CodeWars/CodeWars/SimpleEncryption1AlternatingSplit.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
