@@ -64,6 +64,7 @@
 * [Simple Encryption #1 - Alternating Split](CodeWars/CodeWars/SimpleEncryption1AlternatingSplit.cs)
 * [Give me a Diamond](CodeWars/CodeWars/GiveMeADiamond.cs)
 * [A Rule of Divisibility by 13](CodeWars/CodeWars/ARuleOfDivisibilityBy13.cs)
+* [Backspaces in string](CodeWars/CodeWars/BackspacesInString.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
