@@ -65,6 +65,7 @@
 * [Give me a Diamond](CodeWars/CodeWars/GiveMeADiamond.cs)
 * [A Rule of Divisibility by 13](CodeWars/CodeWars/ARuleOfDivisibilityBy13.cs)
 * [Backspaces in string](CodeWars/CodeWars/BackspacesInString.cs)
+* [Data Reverse](CodeWars/CodeWars/DataReverse.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
