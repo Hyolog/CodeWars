@@ -67,6 +67,7 @@
 * [Backspaces in string](CodeWars/CodeWars/BackspacesInString.cs)
 * [Data Reverse](CodeWars/CodeWars/DataReverse.cs)
 * [Fold an array](CodeWars/CodeWars/FoldAnArray.cs)
+* [Meeting](CodeWars/CodeWars/Meeting.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
