@@ -69,6 +69,7 @@
 * [Fold an array](CodeWars/CodeWars/FoldAnArray.cs)
 * [Meeting](CodeWars/CodeWars/Meeting.cs)
 * [Consonant value](CodeWars/CodeWars/ConsonantValue.cs)
+* [Reverse polish notation calculator](CodeWars/CodeWars/ReversePolishNotationCalculator.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
