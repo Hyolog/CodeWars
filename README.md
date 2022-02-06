@@ -70,6 +70,7 @@
 * [Meeting](CodeWars/CodeWars/Meeting.cs)
 * [Consonant value](CodeWars/CodeWars/ConsonantValue.cs)
 * [Reverse polish notation calculator](CodeWars/CodeWars/ReversePolishNotationCalculator.cs)
+* [Validate Credit Card Number](CodeWars/CodeWars/ValidateCreditCardNumber.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
