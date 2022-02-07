@@ -71,6 +71,7 @@
 * [Consonant value](CodeWars/CodeWars/ConsonantValue.cs)
 * [Reverse polish notation calculator](CodeWars/CodeWars/ReversePolishNotationCalculator.cs)
 * [Validate Credit Card Number](CodeWars/CodeWars/ValidateCreditCardNumber.cs)
+* [Word a10n](CodeWars/CodeWars/WordA10n.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
