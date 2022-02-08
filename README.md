@@ -72,6 +72,7 @@
 * [Reverse polish notation calculator](CodeWars/CodeWars/ReversePolishNotationCalculator.cs)
 * [Validate Credit Card Number](CodeWars/CodeWars/ValidateCreditCardNumber.cs)
 * [Word a10n](CodeWars/CodeWars/WordA10n.cs)
+* [Maze Runner](CodeWars/CodeWars/MazeRunner.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
@@ -79,7 +80,6 @@
 * [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)
 * [Valid Parenthese](CodeWars/CodeWars/VaildParentheses.cs)
 * [Moving Zeros To The End](CodeWars/CodeWars/MovingZeroToTheEnd.cs)
-
 * [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
 * [Where my anagrams at?](CodeWars/CodeWars/WhereMyAnagramsAt.cs)
 * [Human Readable Time](CodeWars/CodeWars/HumanReadableTime.cs)
