@@ -74,6 +74,7 @@
 * [Word a10n](CodeWars/CodeWars/WordA10n.cs)
 * [Maze Runner](CodeWars/CodeWars/MazeRunner.cs)
 * [Pyramid Array](CodeWars/CodeWars/PyramidArray.cs)
+* [Decipher this!](CodeWars/CodeWars/DecipherThis.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
