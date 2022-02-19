@@ -73,6 +73,7 @@
 * [Validate Credit Card Number](CodeWars/CodeWars/ValidateCreditCardNumber.cs)
 * [Word a10n](CodeWars/CodeWars/WordA10n.cs)
 * [Maze Runner](CodeWars/CodeWars/MazeRunner.cs)
+* [Pyramid Array](CodeWars/CodeWars/PyramidArray.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
