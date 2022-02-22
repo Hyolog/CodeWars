@@ -75,6 +75,7 @@
 * [Maze Runner](CodeWars/CodeWars/MazeRunner.cs)
 * [Pyramid Array](CodeWars/CodeWars/PyramidArray.cs)
 * [Decipher this!](CodeWars/CodeWars/DecipherThis.cs)
+* [Sum consecutives](CodeWars/CodeWars/SumConsecutives.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
