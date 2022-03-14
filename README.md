@@ -78,6 +78,7 @@
 * [Sum consecutives](CodeWars/CodeWars/SumConsecutives.cs)
 * [The Deaf Rats of Hamelin](CodeWars/CodeWars/TheDeafRatsOfHamelin.cs)
 * [Equal Sides Of An Array](CodeWars/CodeWars/EqualSidesOfAnArray.cs)
+* [Difference of 2](CodeWars/CodeWars/DifferenceOf2.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
