@@ -99,6 +99,7 @@
 * [Double Cola](CodeWars/CodeWars/DoubleCola.cs)
 * [Gap in Primes](CodeWars/CodeWars/GapInPrimes.cs)
 * [Did I Finish my Sudoku?](CodeWars/CodeWars/DidIFinishMySudoku.cs)
+* [Josephus Permutation](CodeWars/CodeWars/JosephusPermutation.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
