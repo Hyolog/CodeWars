@@ -103,6 +103,7 @@
 * [Gap in Primes](CodeWars/CodeWars/GapInPrimes.cs)
 * [Did I Finish my Sudoku?](CodeWars/CodeWars/DidIFinishMySudoku.cs)
 * [Josephus Permutation](CodeWars/CodeWars/JosephusPermutation.cs)
+* [Count IP Addresses](CodeWars/CodeWars/CountIPAddresses.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
