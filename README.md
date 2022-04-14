@@ -82,6 +82,7 @@
 * [Matrix Addition](CodeWars/CodeWars/MatrixAddition.cs)
 * [Two Sum](CodeWars/CodeWars/TwoSum.cs)
 * [Fibonacci, Tribonacci and friends](CodeWars/CodeWars/FibonacciTribonacciAndFriends.cs)
+* [+1 Array](CodeWars/CodeWars/1Array.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
