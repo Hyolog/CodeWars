@@ -83,11 +83,12 @@
 * [Two Sum](CodeWars/CodeWars/TwoSum.cs)
 * [Fibonacci, Tribonacci and friends](CodeWars/CodeWars/FibonacciTribonacciAndFriends.cs)
 * [+1 Array](CodeWars/CodeWars/1Array.cs)
+* [Rainfall](CodeWars/CodeWars/Rainfall.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
 * [Simple Pig Latin](CodeWars/CodeWars/SimplePigLatin.cs)
-* [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)
+* [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)fhao
 * [Valid Parenthese](CodeWars/CodeWars/VaildParentheses.cs)
 * [Moving Zeros To The End](CodeWars/CodeWars/MovingZeroToTheEnd.cs)
 * [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
