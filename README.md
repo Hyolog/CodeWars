@@ -84,6 +84,7 @@
 * [Fibonacci, Tribonacci and friends](CodeWars/CodeWars/FibonacciTribonacciAndFriends.cs)
 * [+1 Array](CodeWars/CodeWars/1Array.cs)
 * [Rainfall](CodeWars/CodeWars/Rainfall.cs)
+* [Street Fighter 2 - Character Selection](CodeWars/CodeWars/StreetFighter2CharacterSelection.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
