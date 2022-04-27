@@ -85,6 +85,7 @@
 * [+1 Array](CodeWars/CodeWars/1Array.cs)
 * [Rainfall](CodeWars/CodeWars/Rainfall.cs)
 * [Street Fighter 2 - Character Selection](CodeWars/CodeWars/StreetFighter2CharacterSelection.cs)
+* [New Cashier Does Not Know About Space or Shift](CodeWars/CodeWars/NewCashierDoesNotKnowAboutSpaceOrShift.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
