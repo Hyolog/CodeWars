@@ -71,6 +71,7 @@
 * [Consonant value](CodeWars/CodeWars/ConsonantValue.cs)
 * [Reverse polish notation calculator](CodeWars/CodeWars/ReversePolishNotationCalculator.cs)
 * [Validate Credit Card Number](CodeWars/CodeWars/ValidateCreditCardNumber.cs)
+
 * [Word a10n](CodeWars/CodeWars/WordA10n.cs)
 * [Maze Runner](CodeWars/CodeWars/MazeRunner.cs)
 * [Pyramid Array](CodeWars/CodeWars/PyramidArray.cs)
@@ -86,6 +87,7 @@
 * [Rainfall](CodeWars/CodeWars/Rainfall.cs)
 * [Street Fighter 2 - Character Selection](CodeWars/CodeWars/StreetFighter2CharacterSelection.cs)
 * [New Cashier Does Not Know About Space or Shift](CodeWars/CodeWars/NewCashierDoesNotKnowAboutSpaceOrShift.cs)
+* [Pascal's Triangle](CodeWars/CodeWars/PascalTriangle.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
