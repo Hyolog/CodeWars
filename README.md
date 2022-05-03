@@ -88,6 +88,7 @@
 * [Street Fighter 2 - Character Selection](CodeWars/CodeWars/StreetFighter2CharacterSelection.cs)
 * [New Cashier Does Not Know About Space or Shift](CodeWars/CodeWars/NewCashierDoesNotKnowAboutSpaceOrShift.cs)
 * [Pascal's Triangle](CodeWars/CodeWars/PascalTriangle.cs)
+* [Character with longest consecutive repetition](CodeWars/CodeWars/CharacterWithLongestConsecutiveRepetition.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
