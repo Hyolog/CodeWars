@@ -90,6 +90,7 @@
 * [Pascal's Triangle](CodeWars/CodeWars/PascalTriangle.cs)
 * [Character with longest consecutive repetition](CodeWars/CodeWars/CharacterWithLongestConsecutiveRepetition.cs)
 * [String average](CodeWars/CodeWars/StringAverage.cs)
+* [Grouped by commas](CodeWars/CodeWars/GroupedByCommas.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
