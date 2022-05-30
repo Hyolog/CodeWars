@@ -93,6 +93,7 @@
 * [Grouped by commas](CodeWars/CodeWars/GroupedByCommas.cs)
 * [Arrh, grabscrab!](CodeWars/CodeWars/ArrhGrabscrab.cs)
 * [extract file name](CodeWars/CodeWars/ExtractFileName.cs)
+* [English beggars](CodeWars/CodeWars/EnglishBeggars.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
