@@ -92,6 +92,7 @@
 * [String average](CodeWars/CodeWars/StringAverage.cs)
 * [Grouped by commas](CodeWars/CodeWars/GroupedByCommas.cs)
 * [Arrh, grabscrab!](CodeWars/CodeWars/ArrhGrabscrab.cs)
+* [extract file name](CodeWars/CodeWars/ExtractFileName.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
