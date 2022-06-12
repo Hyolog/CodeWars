@@ -94,6 +94,7 @@
 * [Arrh, grabscrab!](CodeWars/CodeWars/ArrhGrabscrab.cs)
 * [extract file name](CodeWars/CodeWars/ExtractFileName.cs)
 * [English beggars](CodeWars/CodeWars/EnglishBeggars.cs)
+* [Two Joggers](CodeWars/CodeWars/TwoJoggers.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
