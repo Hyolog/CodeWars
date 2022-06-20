@@ -97,6 +97,7 @@
 * [Two Joggers](CodeWars/CodeWars/TwoJoggers.cs)
 * [Highest Rank Number in an Array](CodeWars/CodeWars/HighestRankNumberInAnArray.cs)
 * [String array duplicates](CodeWars/CodeWars/StringArrayDuplicates.cs)
+* [N-th Fibonacci](CodeWars/CodeWars/NFibonacci.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
