@@ -96,6 +96,7 @@
 * [English beggars](CodeWars/CodeWars/EnglishBeggars.cs)
 * [Two Joggers](CodeWars/CodeWars/TwoJoggers.cs)
 * [Highest Rank Number in an Array](CodeWars/CodeWars/HighestRankNumberInAnArray.cs)
+* [String array duplicates](CodeWars/CodeWars/StringArrayDuplicates.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
