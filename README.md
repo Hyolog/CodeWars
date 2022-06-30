@@ -99,6 +99,7 @@
 * [String array duplicates](CodeWars/CodeWars/StringArrayDuplicates.cs)
 * [N-th Fibonacci](CodeWars/CodeWars/NFibonacci.cs)
 * [Playing with passphrases](CodeWars/CodeWars/PlayingWithPassphrases.cs)
+* [Backwards Read Primes](CodeWars/CodeWars/BackwardsReadPrimes.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
