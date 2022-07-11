@@ -71,7 +71,6 @@
 * [Consonant value](CodeWars/CodeWars/ConsonantValue.cs)
 * [Reverse polish notation calculator](CodeWars/CodeWars/ReversePolishNotationCalculator.cs)
 * [Validate Credit Card Number](CodeWars/CodeWars/ValidateCreditCardNumber.cs)
-
 * [Word a10n](CodeWars/CodeWars/WordA10n.cs)
 * [Maze Runner](CodeWars/CodeWars/MazeRunner.cs)
 * [Pyramid Array](CodeWars/CodeWars/PyramidArray.cs)
@@ -122,6 +121,7 @@
 * [Did I Finish my Sudoku?](CodeWars/CodeWars/DidIFinishMySudoku.cs)
 * [Josephus Permutation](CodeWars/CodeWars/JosephusPermutation.cs)
 * [Count IP Addresses](CodeWars/CodeWars/CountIPAddresses.cs)
+* [Integers: Recreation One](CodeWars/CodeWars/IntegersRecreationOne.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
