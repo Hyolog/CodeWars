@@ -100,6 +100,7 @@
 * [Playing with passphrases](CodeWars/CodeWars/PlayingWithPassphrases.cs)
 * [Backwards Read Primes](CodeWars/CodeWars/BackwardsReadPrimes.cs)
 * [Array Deep Count](CodeWars/CodeWars/ArrayDeepCount.cs)
+* [Title Case](CodeWars/CodeWars/TitleCase.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
