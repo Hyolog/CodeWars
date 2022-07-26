@@ -102,6 +102,7 @@
 * [Array Deep Count](CodeWars/CodeWars/ArrayDeepCount.cs)
 * [Title Case](CodeWars/CodeWars/TitleCase.cs)
 * [Multiplication table](CodeWars/CodeWars/MultiplicationTable.cs)
+* [Triple trouble](CodeWars/CodeWars/TripleTrouble.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
