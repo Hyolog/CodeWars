@@ -103,6 +103,7 @@
 * [Title Case](CodeWars/CodeWars/TitleCase.cs)
 * [Multiplication table](CodeWars/CodeWars/MultiplicationTable.cs)
 * [Triple trouble](CodeWars/CodeWars/TripleTrouble.cs)
+* [Statistics for an Athletic Association](CodeWars/CodeWars/StatisticsForAnAthleticAssociation.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
