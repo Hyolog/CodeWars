@@ -105,7 +105,7 @@
 * [Triple trouble](CodeWars/CodeWars/TripleTrouble.cs)
 * [Statistics for an Athletic Association](CodeWars/CodeWars/StatisticsForAnAthleticAssociation.cs)
 * [Steps in Primes](CodeWars/CodeWars/StepsInPrimes.cs)
-* [Steps in Primes](CodeWars/CodeWars/StepsInPrimes.cs)
+* [Linked Lists - Length & Count](CodeWars/CodeWars/LinkedListsLengthCount.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
