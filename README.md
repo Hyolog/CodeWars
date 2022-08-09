@@ -128,6 +128,7 @@
 * [Josephus Permutation](CodeWars/CodeWars/JosephusPermutation.cs)
 * [Count IP Addresses](CodeWars/CodeWars/CountIPAddresses.cs)
 * [Integers: Recreation One](CodeWars/CodeWars/IntegersRecreationOne.cs)
+* [Is my friend cheating?](CodeWars/CodeWars/IsMyFriendCheating.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
