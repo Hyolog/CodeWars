@@ -130,6 +130,7 @@
 * [Count IP Addresses](CodeWars/CodeWars/CountIPAddresses.cs)
 * [Integers: Recreation One](CodeWars/CodeWars/IntegersRecreationOne.cs)
 * [Is my friend cheating?](CodeWars/CodeWars/IsMyFriendCheating.cs)
+* [First non-repeating character](CodeWars/CodeWars/FirstNonRepeatingCharacter.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
