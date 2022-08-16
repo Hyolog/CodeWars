@@ -106,6 +106,7 @@
 * [Statistics for an Athletic Association](CodeWars/CodeWars/StatisticsForAnAthleticAssociation.cs)
 * [Steps in Primes](CodeWars/CodeWars/StepsInPrimes.cs)
 * [Linked Lists - Length & Count](CodeWars/CodeWars/LinkedListsLengthCount.cs)
+* [Length of missing array](CodeWars/CodeWars/LengthOfMissingArray.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
