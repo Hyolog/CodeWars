@@ -108,6 +108,7 @@
 * [Linked Lists - Length & Count](CodeWars/CodeWars/LinkedListsLengthCount.cs)
 * [Length of missing array](CodeWars/CodeWars/LengthOfMissingArray.cs)
 * [Pair of gloves](CodeWars/CodeWars/PairOfGloves.cs)
+* [Number Zoo Patrol](CodeWars/CodeWars/NumberZooPatrol.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
