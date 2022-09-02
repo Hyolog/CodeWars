@@ -110,6 +110,7 @@
 * [Pair of gloves](CodeWars/CodeWars/PairOfGloves.cs)
 * [Number Zoo Patrol](CodeWars/CodeWars/NumberZooPatrol.cs)
 * [Twisted Sum](CodeWars/CodeWars/TwistedSum.cs)
+* [Simple Fun #79: Delete a Digit](CodeWars/CodeWars/SimpleFun79DeleteADigit.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
