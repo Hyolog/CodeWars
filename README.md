@@ -112,6 +112,7 @@
 * [Twisted Sum](CodeWars/CodeWars/TwistedSum.cs)
 * [Simple Fun #79: Delete a Digit](CodeWars/CodeWars/SimpleFun79DeleteADigit.cs)
 * [Calculate String Rotation](CodeWars/CodeWars/CalculateStringRotation.cs)
+* [Numericals of a String](CodeWars/CodeWars/NumericalsOfAString.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
