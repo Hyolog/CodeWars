@@ -113,6 +113,7 @@
 * [Simple Fun #79: Delete a Digit](CodeWars/CodeWars/SimpleFun79DeleteADigit.cs)
 * [Calculate String Rotation](CodeWars/CodeWars/CalculateStringRotation.cs)
 * [Numericals of a String](CodeWars/CodeWars/NumericalsOfAString.cs)
+* [Transform To Prime](CodeWars/CodeWars/TransformToPrime.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
