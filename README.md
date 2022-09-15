@@ -114,6 +114,7 @@
 * [Calculate String Rotation](CodeWars/CodeWars/CalculateStringRotation.cs)
 * [Numericals of a String](CodeWars/CodeWars/NumericalsOfAString.cs)
 * [Transform To Prime](CodeWars/CodeWars/TransformToPrime.cs)
+* [Row of the odd triangle](CodeWars/CodeWars/RowOfTheOddTriangle.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
