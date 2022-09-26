@@ -117,6 +117,7 @@
 * [Row of the odd triangle](CodeWars/CodeWars/RowOfTheOddTriangle.cs)
 * [Hamming Code](CodeWars/CodeWars/HammingCode.cs)
 * [Fruit Machine](CodeWars/CodeWars/FruitMachine.cs)
+* [Find the Mine!](CodeWars/CodeWars/FindTheMine.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
