@@ -119,6 +119,7 @@
 * [Fruit Machine](CodeWars/CodeWars/FruitMachine.cs)
 * [Find the Mine!](CodeWars/CodeWars/FindTheMine.cs)
 * [What century is it?](CodeWars/CodeWars/WhatCenturyIsIt.cs)
+* [Alphabet war - airstrike - letters massacre](CodeWars/CodeWars/AlphabetWarAirstrike.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
