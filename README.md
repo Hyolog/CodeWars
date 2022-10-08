@@ -118,6 +118,7 @@
 * [Hamming Code](CodeWars/CodeWars/HammingCode.cs)
 * [Fruit Machine](CodeWars/CodeWars/FruitMachine.cs)
 * [Find the Mine!](CodeWars/CodeWars/FindTheMine.cs)
+* [What century is it?](CodeWars/CodeWars/WhatCenturyIsIt.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
