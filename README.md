@@ -120,6 +120,7 @@
 * [Find the Mine!](CodeWars/CodeWars/FindTheMine.cs)
 * [What century is it?](CodeWars/CodeWars/WhatCenturyIsIt.cs)
 * [Alphabet war - airstrike - letters massacre](CodeWars/CodeWars/AlphabetWarAirstrike.cs)
+* [Collatz](CodeWars/CodeWars/Collatz.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
