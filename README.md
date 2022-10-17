@@ -147,6 +147,7 @@
 * [Is my friend cheating?](CodeWars/CodeWars/IsMyFriendCheating.cs)
 * [First non-repeating character](CodeWars/CodeWars/FirstNonRepeatingCharacter.cs)
 * [Simple assembler interpreter](CodeWars/CodeWars/SimpleAssemblerInterpreter.cs)
+* [Factorial decomposition](CodeWars/CodeWars/FactorialDecomposition.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
