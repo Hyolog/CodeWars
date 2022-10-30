@@ -124,6 +124,7 @@
 * [Srot the inner ctonnet in dsnnieedcg oredr](CodeWars/CodeWars/SrotTheInnerCtonnetInDsnnieedcgOredr.cs)
 * [Christmas tree](CodeWars/CodeWars/ChristmasTree.cs)
 * [Sum The Tree](CodeWars/CodeWars/SumTheTree.cs)
+* [Sequences and Series](CodeWars/CodeWars/SequencesAndSeries.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
