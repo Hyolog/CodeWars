@@ -125,6 +125,7 @@
 * [Christmas tree](CodeWars/CodeWars/ChristmasTree.cs)
 * [Sum The Tree](CodeWars/CodeWars/SumTheTree.cs)
 * [Sequences and Series](CodeWars/CodeWars/SequencesAndSeries.cs)
+* [Sorting on planet Twisted-3-7](CodeWars/CodeWars/SortingOnPlanetTwisted37.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
