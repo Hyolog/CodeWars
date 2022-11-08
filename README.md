@@ -127,6 +127,7 @@
 * [Sequences and Series](CodeWars/CodeWars/SequencesAndSeries.cs)
 * [Sorting on planet Twisted-3-7](CodeWars/CodeWars/SortingOnPlanetTwisted37.cs)
 * [Clock in Mirror](CodeWars/CodeWars/ClockInMirror.cs)
+* [up AND down](CodeWars/CodeWars/UpANDDown.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
