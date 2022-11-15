@@ -128,6 +128,7 @@
 * [Sorting on planet Twisted-3-7](CodeWars/CodeWars/SortingOnPlanetTwisted37.cs)
 * [Clock in Mirror](CodeWars/CodeWars/ClockInMirror.cs)
 * [Clocky Mc Clock-Face](CodeWars/CodeWars/ClockyMcClockFace.cs)
+* [Triangle number check](CodeWars/CodeWars/TriangleNumberCheck.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
