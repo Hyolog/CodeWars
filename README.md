@@ -129,6 +129,7 @@
 * [Clock in Mirror](CodeWars/CodeWars/ClockInMirror.cs)
 * [Clocky Mc Clock-Face](CodeWars/CodeWars/ClockyMcClockFace.cs)
 * [Triangle number check](CodeWars/CodeWars/TriangleNumberCheck.cs)
+* [Message Validator](CodeWars/CodeWars/MessageValidator.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
