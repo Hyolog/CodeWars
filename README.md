@@ -131,6 +131,7 @@
 * [Triangle number check](CodeWars/CodeWars/TriangleNumberCheck.cs)
 * [Message Validator](CodeWars/CodeWars/MessageValidator.cs)
 * [Casino chips](CodeWars/CodeWars/CasinoChips.cs)
+* [Most Frequent Weekdays](CodeWars/CodeWars/MostFrequentWeekdays.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
