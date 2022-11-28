@@ -132,6 +132,7 @@
 * [Message Validator](CodeWars/CodeWars/MessageValidator.cs)
 * [Casino chips](CodeWars/CodeWars/CasinoChips.cs)
 * [Most Frequent Weekdays](CodeWars/CodeWars/MostFrequentWeekdays.cs)
+* [Catalog](CodeWars/CodeWars/Catalog.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
