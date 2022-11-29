@@ -133,6 +133,7 @@
 * [Casino chips](CodeWars/CodeWars/CasinoChips.cs)
 * [Most Frequent Weekdays](CodeWars/CodeWars/MostFrequentWeekdays.cs)
 * [Catalog](CodeWars/CodeWars/Catalog.cs)
+* [Bingo Card](CodeWars/CodeWars/BingoCard.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
