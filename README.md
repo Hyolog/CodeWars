@@ -135,6 +135,7 @@
 * [Catalog](CodeWars/CodeWars/Catalog.cs)
 * [Bingo Card](CodeWars/CodeWars/BingoCard.cs)
 * [Crack the PIN](CodeWars/CodeWars/CrackThePIN.cs)
+* [Shortest steps to a number](CodeWars/CodeWars/ShortestStepsToANumber.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
