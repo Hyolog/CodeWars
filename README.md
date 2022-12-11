@@ -134,6 +134,7 @@
 * [Most Frequent Weekdays](CodeWars/CodeWars/MostFrequentWeekdays.cs)
 * [Catalog](CodeWars/CodeWars/Catalog.cs)
 * [Bingo Card](CodeWars/CodeWars/BingoCard.cs)
+* [Crack the PIN](CodeWars/CodeWars/CrackThePIN.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
