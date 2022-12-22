@@ -137,6 +137,7 @@
 * [Crack the PIN](CodeWars/CodeWars/CrackThePIN.cs)
 * [Shortest steps to a number](CodeWars/CodeWars/ShortestStepsToANumber.cs)
 * [Sort My Animals](CodeWars/CodeWars/SortMyAnimals.cs)
+* [Remember](CodeWars/CodeWars/Remember.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
