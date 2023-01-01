@@ -138,6 +138,7 @@
 * [Shortest steps to a number](CodeWars/CodeWars/ShortestStepsToANumber.cs)
 * [Sort My Animals](CodeWars/CodeWars/SortMyAnimals.cs)
 * [Remember](CodeWars/CodeWars/Remember.cs)
+* [Split and then add both sides of an array together](CodeWars/CodeWars/SplitAndThenAddBothSidesOfAnArrayTogether.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
