@@ -140,6 +140,7 @@
 * [Remember](CodeWars/CodeWars/Remember.cs)
 * [Split and then add both sides of an array together](CodeWars/CodeWars/SplitAndThenAddBothSidesOfAnArrayTogether.cs)
 * [Sorting by bits](CodeWars/CodeWars/SortingByBits.cs)
+* [String Breakers](CodeWars/CodeWars/StringBreakers.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
