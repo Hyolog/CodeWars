@@ -167,6 +167,7 @@
 * [First non-repeating character](CodeWars/CodeWars/FirstNonRepeatingCharacter.cs)
 * [Simple assembler interpreter](CodeWars/CodeWars/SimpleAssemblerInterpreter.cs)
 * [Factorial decomposition](CodeWars/CodeWars/FactorialDecomposition.cs)
+* [Simple fraction to mixed number converter](CodeWars/CodeWars/SimpleFractionToMixedNumberConverter.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
