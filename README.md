@@ -169,6 +169,7 @@
 * [Simple assembler interpreter](CodeWars/CodeWars/SimpleAssemblerInterpreter.cs)
 * [Factorial decomposition](CodeWars/CodeWars/FactorialDecomposition.cs)
 * [Simple fraction to mixed number converter](CodeWars/CodeWars/SimpleFractionToMixedNumberConverter.cs)
+* [The Clockwise Spiral](CodeWars/CodeWars/TheClockwiseSpiral.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
