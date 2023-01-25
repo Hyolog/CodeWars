@@ -142,6 +142,7 @@
 * [Sorting by bits](CodeWars/CodeWars/SortingByBits.cs)
 * [String Breakers](CodeWars/CodeWars/StringBreakers.cs)
 * [Throwing Darts](CodeWars/CodeWars/ThrowingDarts.cs)
+* [Are we alternate?](CodeWars/CodeWars/AreWeAlternate.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
