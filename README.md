@@ -171,6 +171,7 @@
 * [Factorial decomposition](CodeWars/CodeWars/FactorialDecomposition.cs)
 * [Simple fraction to mixed number converter](CodeWars/CodeWars/SimpleFractionToMixedNumberConverter.cs)
 * [The Clockwise Spiral](CodeWars/CodeWars/TheClockwiseSpiral.cs)
+* [Buddy Pairs](CodeWars/CodeWars/BuddyPairs.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
