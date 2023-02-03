@@ -143,6 +143,7 @@
 * [String Breakers](CodeWars/CodeWars/StringBreakers.cs)
 * [Throwing Darts](CodeWars/CodeWars/ThrowingDarts.cs)
 * [Are we alternate?](CodeWars/CodeWars/AreWeAlternate.cs)
+* [Single character palindromes](CodeWars/CodeWars/SingleCharacterPalindromes.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
