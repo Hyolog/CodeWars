@@ -144,6 +144,7 @@
 * [Throwing Darts](CodeWars/CodeWars/ThrowingDarts.cs)
 * [Are we alternate?](CodeWars/CodeWars/AreWeAlternate.cs)
 * [Single character palindromes](CodeWars/CodeWars/SingleCharacterPalindromes.cs)
+* [Easy Diagonal](CodeWars/CodeWars/EasyDiagonal.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
