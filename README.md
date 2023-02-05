@@ -53,7 +53,7 @@
 * [Good vs Evil](CodeWars/CodeWars/GoodVsEvil.cs)
 * [Make the Deadfish swim](CodeWars/CodeWars/MakeTheDeadfishSwim.cs)
 * [Delete occurrences of an element if it occurs more than n times](CodeWars/CodeWars/DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes.cs)
-* [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¢®Eureka!!](CodeWars/CodeWars/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka.cs)
+* [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....Â¢Â®Eureka!!](CodeWars/CodeWars/TakeaNumberAndSumItsDigitsRaisedToTheConsecutivePowersAndEureka.cs)
 * [Roman Numerals Decoder](CodeWars/CodeWars/RomanNumeralsDecoder.cs)
 * [IP Validation](CodeWars/CodeWars/IPValidation.cs)
 * [Help the bookseller !](CodeWars/CodeWars/HelpTheBookseller.cs)
@@ -149,7 +149,7 @@
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
 * [Simple Pig Latin](CodeWars/CodeWars/SimplePigLatin.cs)
-* [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)fhao
+* [Primes in numbers](CodeWars/CodeWars/PrimesInNumbers.cs)
 * [Valid Parenthese](CodeWars/CodeWars/VaildParentheses.cs)
 * [Moving Zeros To The End](CodeWars/CodeWars/MovingZeroToTheEnd.cs)
 * [Weight for weight](CodeWars/CodeWars/WeightForWeight.cs)
