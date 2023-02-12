@@ -146,6 +146,7 @@
 * [Single character palindromes](CodeWars/CodeWars/SingleCharacterPalindromes.cs)
 * [Easy Diagonal](CodeWars/CodeWars/EasyDiagonal.cs)
 * [Simple Fun #135: Missing Alphabets](CodeWars/CodeWars/SimpleFunMissingAlphabets.cs)
+* [N smallest elements in original order](CodeWars/CodeWars/NSmallestElementsInOriginalOrder.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
