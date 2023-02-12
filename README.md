@@ -145,6 +145,7 @@
 * [Are we alternate?](CodeWars/CodeWars/AreWeAlternate.cs)
 * [Single character palindromes](CodeWars/CodeWars/SingleCharacterPalindromes.cs)
 * [Easy Diagonal](CodeWars/CodeWars/EasyDiagonal.cs)
+* [Simple Fun #135: Missing Alphabets](CodeWars/CodeWars/SimpleFunMissingAlphabets.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
