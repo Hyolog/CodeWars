@@ -148,6 +148,7 @@
 * [Simple Fun #135: Missing Alphabets](CodeWars/CodeWars/SimpleFunMissingAlphabets.cs)
 * [N smallest elements in original order](CodeWars/CodeWars/NSmallestElementsInOriginalOrder.cs)
 * [FIXME: Hello](CodeWars/CodeWars/FixmeHello.cs)
+* [Number Format](CodeWars/CodeWars/NumberFormat.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
