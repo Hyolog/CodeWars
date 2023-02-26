@@ -149,6 +149,7 @@
 * [N smallest elements in original order](CodeWars/CodeWars/NSmallestElementsInOriginalOrder.cs)
 * [FIXME: Hello](CodeWars/CodeWars/FixmeHello.cs)
 * [Number Format](CodeWars/CodeWars/NumberFormat.cs)
+* [Return 1, 2, 3 randomly](CodeWars/CodeWars/Return123randomly.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
