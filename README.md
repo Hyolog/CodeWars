@@ -151,6 +151,7 @@
 * [Number Format](CodeWars/CodeWars/NumberFormat.cs)
 * [Return 1, 2, 3 randomly](CodeWars/CodeWars/Return123randomly.cs)
 * [Reach Me and Sum my Digits](CodeWars/CodeWars/ReachMeAndSumMyDigits.cs)
+* [Buying a car](CodeWars/CodeWars/BuyingACar.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
