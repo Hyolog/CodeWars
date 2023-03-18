@@ -154,6 +154,7 @@
 * [Buying a car](CodeWars/CodeWars/BuyingACar.cs)
 * [Round by 0.5 steps](CodeWars/CodeWars/RoundBySteps.cs)
 * [Hamming Distance](CodeWars/CodeWars/HammingDistance.cs)
+* [Schrödinger's Boolean](CodeWars/CodeWars/SchrodingersBoolean.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
