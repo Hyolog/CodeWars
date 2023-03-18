@@ -153,6 +153,7 @@
 * [Reach Me and Sum my Digits](CodeWars/CodeWars/ReachMeAndSumMyDigits.cs)
 * [Buying a car](CodeWars/CodeWars/BuyingACar.cs)
 * [Round by 0.5 steps](CodeWars/CodeWars/RoundBySteps.cs)
+* [Hamming Distance](CodeWars/CodeWars/HammingDistance.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
