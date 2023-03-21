@@ -155,6 +155,7 @@
 * [Round by 0.5 steps](CodeWars/CodeWars/RoundBySteps.cs)
 * [Hamming Distance](CodeWars/CodeWars/HammingDistance.cs)
 * [Schrödinger's Boolean](CodeWars/CodeWars/SchrodingersBoolean.cs)
+* [Assemble string](CodeWars/CodeWars/AssembleString.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
