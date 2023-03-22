@@ -156,6 +156,7 @@
 * [Hamming Distance](CodeWars/CodeWars/HammingDistance.cs)
 * [Schrödinger's Boolean](CodeWars/CodeWars/SchrodingersBoolean.cs)
 * [Assemble string](CodeWars/CodeWars/AssembleString.cs)
+* [Parabolic Arc Length](CodeWars/CodeWars/ParabolicArcLength.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
