@@ -157,6 +157,7 @@
 * [Schrödinger's Boolean](CodeWars/CodeWars/SchrodingersBoolean.cs)
 * [Assemble string](CodeWars/CodeWars/AssembleString.cs)
 * [Parabolic Arc Length](CodeWars/CodeWars/ParabolicArcLength.cs)
+* [The Book of Mormon](CodeWars/CodeWars/TheBoooofMormon.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
