@@ -158,6 +158,7 @@
 * [Assemble string](CodeWars/CodeWars/AssembleString.cs)
 * [Parabolic Arc Length](CodeWars/CodeWars/ParabolicArcLength.cs)
 * [The Book of Mormon](CodeWars/CodeWars/TheBoooofMormon.cs)
+* [Simple Fun #52: Pair Of Shoes](CodeWars/CodeWars/SimpleFunPairOfShoes.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
