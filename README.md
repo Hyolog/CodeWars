@@ -159,6 +159,7 @@
 * [Parabolic Arc Length](CodeWars/CodeWars/ParabolicArcLength.cs)
 * [The Book of Mormon](CodeWars/CodeWars/TheBoooofMormon.cs)
 * [Simple Fun #52: Pair Of Shoes](CodeWars/CodeWars/SimpleFunPairOfShoes.cs)
+* [Irreducible Sum of Rationals](CodeWars/CodeWars/IrreducibleSumOfRationals.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
