@@ -160,6 +160,7 @@
 * [The Book of Mormon](CodeWars/CodeWars/TheBoooofMormon.cs)
 * [Simple Fun #52: Pair Of Shoes](CodeWars/CodeWars/SimpleFunPairOfShoes.cs)
 * [Irreducible Sum of Rationals](CodeWars/CodeWars/IrreducibleSumOfRationals.cs)
+* [Handshake Problem](CodeWars/CodeWars/HandshakeProblem.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
