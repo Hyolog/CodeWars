@@ -161,6 +161,7 @@
 * [Simple Fun #52: Pair Of Shoes](CodeWars/CodeWars/SimpleFunPairOfShoes.cs)
 * [Irreducible Sum of Rationals](CodeWars/CodeWars/IrreducibleSumOfRationals.cs)
 * [Handshake Problem](CodeWars/CodeWars/HandshakeProblem.cs)
+* [Banker's Plan](CodeWars/CodeWars/BankersPlan.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
