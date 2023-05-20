@@ -162,6 +162,7 @@
 * [Irreducible Sum of Rationals](CodeWars/CodeWars/IrreducibleSumOfRationals.cs)
 * [Handshake Problem](CodeWars/CodeWars/HandshakeProblem.cs)
 * [Banker's Plan](CodeWars/CodeWars/BankersPlan.cs)
+* [Reverse or rotate?](CodeWars/CodeWars/ReverseOrRotate.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
