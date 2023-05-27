@@ -163,6 +163,7 @@
 * [Handshake Problem](CodeWars/CodeWars/HandshakeProblem.cs)
 * [Banker's Plan](CodeWars/CodeWars/BankersPlan.cs)
 * [Reverse or rotate?](CodeWars/CodeWars/ReverseOrRotate.cs)
+* [Remove the parentheses](CodeWars/CodeWars/RemoveTheParentheses.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
