@@ -164,6 +164,7 @@
 * [Banker's Plan](CodeWars/CodeWars/BankersPlan.cs)
 * [Reverse or rotate?](CodeWars/CodeWars/ReverseOrRotate.cs)
 * [Remove the parentheses](CodeWars/CodeWars/RemoveTheParentheses.cs)
+* [Don't rely on luck.](CodeWars/CodeWars/DontRelyOnLuck.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
