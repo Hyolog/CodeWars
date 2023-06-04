@@ -165,6 +165,7 @@
 * [Reverse or rotate?](CodeWars/CodeWars/ReverseOrRotate.cs)
 * [Remove the parentheses](CodeWars/CodeWars/RemoveTheParentheses.cs)
 * [Don't rely on luck.](CodeWars/CodeWars/DontRelyOnLuck.cs)
+* [Basic Encryption](CodeWars/CodeWars/BasicEncryption.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
