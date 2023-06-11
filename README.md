@@ -167,6 +167,7 @@
 * [Don't rely on luck.](CodeWars/CodeWars/DontRelyOnLuck.cs)
 * [Basic Encryption](CodeWars/CodeWars/BasicEncryption.cs)
 * [Mutual Recursion](CodeWars/CodeWars/MutualRecursion.cs)
+* [Integer depth](CodeWars/CodeWars/IntegerDepth.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
