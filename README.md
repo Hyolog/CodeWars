@@ -168,6 +168,7 @@
 * [Basic Encryption](CodeWars/CodeWars/BasicEncryption.cs)
 * [Mutual Recursion](CodeWars/CodeWars/MutualRecursion.cs)
 * [Integer depth](CodeWars/CodeWars/IntegerDepth.cs)
+* [Reducing by steps](CodeWars/CodeWars/ReducingBySteps.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
