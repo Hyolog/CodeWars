@@ -172,6 +172,7 @@
 * [Count the divisible numbers](CodeWars/CodeWars/CountTheDivisibleNumbers.cs)
 * [Sum of prime-indexed elements](CodeWars/CodeWars/SumOfPrimeIndexedElements.cs)
 * [Calculate number of inversions in array](CodeWars/CodeWars/CalculateNumberOfInversionsInArray.cs)
+* [Even Fibonacci Sum](CodeWars/CodeWars/EvenFibonacciSum.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
