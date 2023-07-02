@@ -174,6 +174,7 @@
 * [Calculate number of inversions in array](CodeWars/CodeWars/CalculateNumberOfInversionsInArray.cs)
 * [Even Fibonacci Sum](CodeWars/CodeWars/EvenFibonacciSum.cs)
 * [Mysterious function](CodeWars/CodeWars/MysteriousFunction.cs)
+* [Dead Ants](CodeWars/CodeWars/DeadAnts.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
