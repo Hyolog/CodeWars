@@ -175,6 +175,7 @@
 * [Even Fibonacci Sum](CodeWars/CodeWars/EvenFibonacciSum.cs)
 * [Mysterious function](CodeWars/CodeWars/MysteriousFunction.cs)
 * [Dead Ants](CodeWars/CodeWars/DeadAnts.cs)
+* [String tops](CodeWars/CodeWars/StringTops.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
