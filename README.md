@@ -176,6 +176,7 @@
 * [Mysterious function](CodeWars/CodeWars/MysteriousFunction.cs)
 * [Dead Ants](CodeWars/CodeWars/DeadAnts.cs)
 * [String tops](CodeWars/CodeWars/StringTops.cs)
+* [String subpattern recognition I](CodeWars/CodeWars/StringSubpatternRecognitionI.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
