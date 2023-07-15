@@ -178,6 +178,7 @@
 * [String tops](CodeWars/CodeWars/StringTops.cs)
 * [String subpattern recognition I](CodeWars/CodeWars/StringSubpatternRecognitionI.cs)
 * [Basics 03: Strings, Numbers and Calculation](CodeWars/CodeWars/Basics03StringsNumbersAndCalculation.cs)
+* [The takeWhile Function](CodeWars/CodeWars/TheTakeWhileFunction.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
