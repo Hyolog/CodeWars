@@ -177,6 +177,7 @@
 * [Dead Ants](CodeWars/CodeWars/DeadAnts.cs)
 * [String tops](CodeWars/CodeWars/StringTops.cs)
 * [String subpattern recognition I](CodeWars/CodeWars/StringSubpatternRecognitionI.cs)
+* [Basics 03: Strings, Numbers and Calculation](CodeWars/CodeWars/Basics03StringsNumbersAndCalculation.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
