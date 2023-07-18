@@ -180,6 +180,7 @@
 * [Basics 03: Strings, Numbers and Calculation](CodeWars/CodeWars/Basics03StringsNumbersAndCalculation.cs)
 * [The takeWhile Function](CodeWars/CodeWars/TheTakeWhileFunction.cs)
 * [Bowling Pins](CodeWars/CodeWars/BowlingPins.cs)
+* [Color Choice](CodeWars/CodeWars/ColorChoice.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
