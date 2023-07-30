@@ -217,3 +217,4 @@
 * [Sudoku Solution Validator](CodeWars/CodeWars/SudokuSolutionValidator.cs)
 * [Next bigger number with the same digits](CodeWars/CodeWars/NextBiggerNumberWithTheSameDigits.cs)
 * [Human readable duration format](CodeWars/CodeWars/HumanReadableDurationFormat.cs)
+* [Strip Comments](CodeWars/CodeWars/StripComments.cs)
