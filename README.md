@@ -184,6 +184,7 @@
 * [Simple Fun #165: Withdraw](CodeWars/CodeWars/SimpleFun165Withdraw.cs)
 * [Valid Phone Number](CodeWars/CodeWars/ValidPhoneNumber.cs)
 * [Smallest Permutation](CodeWars/CodeWars/SmallestPermutation.cs)
+* [Vowel Shifting](CodeWars/CodeWars/VowelShifting.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
