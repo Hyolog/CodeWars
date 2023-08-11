@@ -185,6 +185,7 @@
 * [Valid Phone Number](CodeWars/CodeWars/ValidPhoneNumber.cs)
 * [Smallest Permutation](CodeWars/CodeWars/SmallestPermutation.cs)
 * [Vowel Shifting](CodeWars/CodeWars/VowelShifting.cs)
+* [Padovan numbers](CodeWars/CodeWars/PadovanNumbers.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
