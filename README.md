@@ -186,6 +186,7 @@
 * [Smallest Permutation](CodeWars/CodeWars/SmallestPermutation.cs)
 * [Vowel Shifting](CodeWars/CodeWars/VowelShifting.cs)
 * [Padovan numbers](CodeWars/CodeWars/PadovanNumbers.cs)
+* [World Bits War](CodeWars/CodeWars/WorldBitsWar.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
