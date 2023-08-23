@@ -188,6 +188,7 @@
 * [Padovan numbers](CodeWars/CodeWars/PadovanNumbers.cs)
 * [World Bits War](CodeWars/CodeWars/WorldBitsWar.cs)
 * [Rank Vector](CodeWars/CodeWars/RankVector.cs)
+* [Rotate Array](CodeWars/CodeWars/RotateArray.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
