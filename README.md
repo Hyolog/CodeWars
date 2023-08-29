@@ -190,6 +190,7 @@
 * [Rank Vector](CodeWars/CodeWars/RankVector.cs)
 * [Rotate Array](CodeWars/CodeWars/RotateArray.cs)
 * [Twin Prime](CodeWars/CodeWars/TwinPrime.cs)
+* [Wave Sorting](CodeWars/CodeWars/WaveSorting.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
