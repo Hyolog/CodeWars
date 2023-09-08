@@ -192,6 +192,7 @@
 * [Twin Prime](CodeWars/CodeWars/TwinPrime.cs)
 * [Wave Sorting](CodeWars/CodeWars/WaveSorting.cs)
 * [Pentabonacci](CodeWars/CodeWars/Pentabonacci.cs)
+* [Generic numeric template formatter](CodeWars/CodeWars/GenericNumericTemplateFormatter.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
