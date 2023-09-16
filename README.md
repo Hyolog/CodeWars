@@ -194,6 +194,7 @@
 * [Pentabonacci](CodeWars/CodeWars/Pentabonacci.cs)
 * [Generic numeric template formatter](CodeWars/CodeWars/GenericNumericTemplateFormatter.cs)
 * [Words to Hex](CodeWars/CodeWars/WordsToHex.cs)
+* [Simple time difference](CodeWars/CodeWars/SimpleTimeDifference.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
