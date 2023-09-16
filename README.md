@@ -195,6 +195,7 @@
 * [Generic numeric template formatter](CodeWars/CodeWars/GenericNumericTemplateFormatter.cs)
 * [Words to Hex](CodeWars/CodeWars/WordsToHex.cs)
 * [Simple time difference](CodeWars/CodeWars/SimpleTimeDifference.cs)
+* [Count the days](CodeWars/CodeWars/CountTheDays.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
