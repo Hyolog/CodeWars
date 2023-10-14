@@ -198,6 +198,7 @@
 * [Count the days](CodeWars/CodeWars/CountTheDays.cs)
 * [Divisible Ints](CodeWars/CodeWars/DivisibleInts.cs)
 * [Loneliest character](CodeWars/CodeWars/LoneliestCharacter.cs)
+* [I love big nums and I cannot lie](CodeWars/CodeWars/ILoveBigNumsAndICannotLie.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
