@@ -200,6 +200,7 @@
 * [Loneliest character](CodeWars/CodeWars/LoneliestCharacter.cs)
 * [I love big nums and I cannot lie](CodeWars/CodeWars/ILoveBigNumsAndICannotLie.cs)
 * [The Freeway Game](CodeWars/CodeWars/TheFreewayGame.cs)
+* [Min Factor Distance](CodeWars/CodeWars/MinFactorDistance.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
