@@ -202,6 +202,7 @@
 * [The Freeway Game](CodeWars/CodeWars/TheFreewayGame.cs)
 * [Min Factor Distance](CodeWars/CodeWars/MinFactorDistance.cs)
 * [Nth Order Summation](CodeWars/CodeWars/NthOrderSummation.cs)
+* [Page replacement algorithms: LRU](CodeWars/CodeWars/PageReplacementAlgorithmsLRU.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
