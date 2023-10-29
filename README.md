@@ -203,6 +203,7 @@
 * [Min Factor Distance](CodeWars/CodeWars/MinFactorDistance.cs)
 * [Nth Order Summation](CodeWars/CodeWars/NthOrderSummation.cs)
 * [Page replacement algorithms: LRU](CodeWars/CodeWars/PageReplacementAlgorithmsLRU.cs)
+* [Death by Coffee](CodeWars/CodeWars/DeathByCoffee.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
