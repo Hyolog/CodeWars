@@ -204,6 +204,7 @@
 * [Nth Order Summation](CodeWars/CodeWars/NthOrderSummation.cs)
 * [Page replacement algorithms: LRU](CodeWars/CodeWars/PageReplacementAlgorithmsLRU.cs)
 * [Death by Coffee](CodeWars/CodeWars/DeathByCoffee.cs)
+* [Special Multiples](CodeWars/CodeWars/SpecialMultiples.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
