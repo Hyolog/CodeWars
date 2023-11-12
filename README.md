@@ -206,6 +206,7 @@
 * [Death by Coffee](CodeWars/CodeWars/DeathByCoffee.cs)
 * [Special Multiples](CodeWars/CodeWars/SpecialMultiples.cs)
 * [Simple Fun #115: Factor Sum](CodeWars/CodeWars/SimpleFun115FactorSum.cs)
+* [Strongest even number in an interval](CodeWars/StrongestEvenNumberInAnIntervalcs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
