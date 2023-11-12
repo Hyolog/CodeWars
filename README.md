@@ -207,6 +207,7 @@
 * [Special Multiples](CodeWars/CodeWars/SpecialMultiples.cs)
 * [Simple Fun #115: Factor Sum](CodeWars/CodeWars/SimpleFun115FactorSum.cs)
 * [Strongest even number in an interval](CodeWars/StrongestEvenNumberInAnIntervalcs)
+* [Simple Fun #54: Strings Crossover](CodeWars/CodeWars/SimpleFun54StringsCrossover.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
