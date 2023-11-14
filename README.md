@@ -209,6 +209,7 @@
 * [Strongest even number in an interval](CodeWars/StrongestEvenNumberInAnIntervalcs)
 * [Simple Fun #54: Strings Crossover](CodeWars/CodeWars/SimpleFun54StringsCrossover.cs)
 * [Compare powers](CodeWars/CodeWars/ComparePowers.cs)
+* [Simple Fun #121: Mr.Odd](CodeWars/CodeWars/SimpleFun121MrOdd.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
