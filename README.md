@@ -210,6 +210,7 @@
 * [Simple Fun #54: Strings Crossover](CodeWars/CodeWars/SimpleFun54StringsCrossover.cs)
 * [Compare powers](CodeWars/CodeWars/ComparePowers.cs)
 * [Simple Fun #121: Mr.Odd](CodeWars/CodeWars/SimpleFun121MrOdd.cs)
+* [CamelCase to underscore](CodeWars/CodeWars/CamelCaseUoUnderscore.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
