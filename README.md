@@ -211,6 +211,7 @@
 * [Compare powers](CodeWars/CodeWars/ComparePowers.cs)
 * [Simple Fun #121: Mr.Odd](CodeWars/CodeWars/SimpleFun121MrOdd.cs)
 * [CamelCase to underscore](CodeWars/CodeWars/CamelCaseUoUnderscore.cs)
+* [Range Collapse Representation](CodeWars/CodeWars/RangeCollapseRepresentation.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
