@@ -213,6 +213,7 @@
 * [CamelCase to underscore](CodeWars/CodeWars/CamelCaseUoUnderscore.cs)
 * [Range Collapse Representation](CodeWars/CodeWars/RangeCollapseRepresentation.cs)
 * [Lucas numbers](CodeWars/CodeWars/LucasNumbers.cs)
+* [Dominant primes](CodeWars/CodeWars/DominantPrimes.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
