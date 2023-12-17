@@ -214,6 +214,7 @@
 * [Range Collapse Representation](CodeWars/CodeWars/RangeCollapseRepresentation.cs)
 * [Lucas numbers](CodeWars/CodeWars/LucasNumbers.cs)
 * [Dominant primes](CodeWars/CodeWars/DominantPrimes.cs)
+* [Missing Alphabet](CodeWars/CodeWars/MissingAlphabet.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
