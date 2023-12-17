@@ -215,6 +215,7 @@
 * [Lucas numbers](CodeWars/CodeWars/LucasNumbers.cs)
 * [Dominant primes](CodeWars/CodeWars/DominantPrimes.cs)
 * [Missing Alphabet](CodeWars/CodeWars/MissingAlphabet.cs)
+* [Quick (n choose k) calculator](CodeWars/CodeWars/QuickCalculator.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
