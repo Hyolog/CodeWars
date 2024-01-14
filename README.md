@@ -217,6 +217,7 @@
 * [Missing Alphabet](CodeWars/CodeWars/MissingAlphabet.cs)
 * [Quick (n choose k) calculator](CodeWars/CodeWars/QuickCalculator.cs)
 * [Cuckoo Clock](CodeWars/CodeWars/CuckooClock.cs)
+* [Grill it!](CodeWars/CodeWars/GrillIt.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
