@@ -216,6 +216,7 @@
 * [Dominant primes](CodeWars/CodeWars/DominantPrimes.cs)
 * [Missing Alphabet](CodeWars/CodeWars/MissingAlphabet.cs)
 * [Quick (n choose k) calculator](CodeWars/CodeWars/QuickCalculator.cs)
+* [Cuckoo Clock](CodeWars/CodeWars/CuckooClock.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
