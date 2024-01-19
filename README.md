@@ -218,6 +218,7 @@
 * [Quick (n choose k) calculator](CodeWars/CodeWars/QuickCalculator.cs)
 * [Cuckoo Clock](CodeWars/CodeWars/CuckooClock.cs)
 * [Grill it!](CodeWars/CodeWars/GrillIt.cs)
+* [Modulus 11 - Check Digit](CodeWars/CodeWars/Modulus11CheckDigit.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
