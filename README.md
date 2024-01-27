@@ -220,6 +220,7 @@
 * [Grill it!](CodeWars/CodeWars/GrillIt.cs)
 * [Modulus 11 - Check Digit](CodeWars/CodeWars/Modulus11CheckDigit.cs)
 * [Reducing by rules to get the result](CodeWars/CodeWars/ReducingByRulesToGetTheResult.cs)
+* [Save the Spice Harvester](CodeWars/CodeWars/SaveTheSpiceHarvester.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
