@@ -222,6 +222,7 @@
 * [Reducing by rules to get the result](CodeWars/CodeWars/ReducingByRulesToGetTheResult.cs)
 * [Save the Spice Harvester](CodeWars/CodeWars/SaveTheSpiceHarvester.cs)
 * [Odder than the rest](CodeWars/CodeWars/OdderThanTheRest.cs)
+* [Spelling Bee](CodeWars/CodeWars/SpellingBee.cs)
 * [Delta Generators](CodeWars/CodeWars/DeltaGenerators.cs)
 
 ## 5 kyu
