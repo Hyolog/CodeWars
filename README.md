@@ -224,6 +224,7 @@
 * [Odder than the rest](CodeWars/CodeWars/OdderThanTheRest.cs)
 * [Spelling Bee](CodeWars/CodeWars/SpellingBee.cs)
 * [Delta Generators](CodeWars/CodeWars/DeltaGenerators.cs)
+* [Sum of a Sequence](CodeWars/CodeWars/SumOfASequence.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
