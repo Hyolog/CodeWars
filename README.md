@@ -226,6 +226,7 @@
 * [Delta Generators](CodeWars/CodeWars/DeltaGenerators.cs)
 * [Sum of a Sequence](CodeWars/CodeWars/SumOfASequence.cs)
 * [Simple division](CodeWars/CodeWars/SimpleDivision.cs)
+* [Pell Numbers](CodeWars/CodeWars/PellNumbers.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
