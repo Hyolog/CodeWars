@@ -227,6 +227,7 @@
 * [Sum of a Sequence](CodeWars/CodeWars/SumOfASequence.cs)
 * [Simple division](CodeWars/CodeWars/SimpleDivision.cs)
 * [Pell Numbers](CodeWars/CodeWars/PellNumbers.cs)
+* [Raise Me to The Third Power, Search My Divisors](CodeWars/CodeWars/RaiseMeToTheThirdPowerSearchMyDivisors.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
