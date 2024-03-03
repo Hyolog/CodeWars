@@ -229,6 +229,7 @@
 * [Pell Numbers](CodeWars/CodeWars/PellNumbers.cs)
 * [Raise Me to The Third Power, Search My Divisors](CodeWars/CodeWars/RaiseMeToTheThirdPowerSearchMyDivisors.cs)
 * [Simple Fun #180: Repeat Adjacent](CodeWars/CodeWars/SimpleFun180RepeatAdjacent.cs)
+* [Simple Fun #151: Rocks](CodeWars/CodeWars/SimpleFun151Rocks.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
