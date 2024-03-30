@@ -232,6 +232,7 @@
 * [Simple Fun #151: Rocks](CodeWars/CodeWars/SimpleFun151Rocks.cs)
 * [The latest clock](CodeWars/CodeWars/TheLatestClock.cs)
 * [Clever split](CodeWars/CodeWars/CleverSplit.cs)
+* [Get Euchre Score](CodeWars/CodeWars/GetEuchreScore.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
