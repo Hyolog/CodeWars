@@ -233,6 +233,7 @@
 * [The latest clock](CodeWars/CodeWars/TheLatestClock.cs)
 * [Clever split](CodeWars/CodeWars/CleverSplit.cs)
 * [Get Euchre Score](CodeWars/CodeWars/GetEuchreScore.cs)
+* [Calculate the function f(x) for a simple linear sequence (Medium)](CodeWars/CodeWars/CalculateTheFunction.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
