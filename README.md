@@ -234,6 +234,7 @@
 * [Clever split](CodeWars/CodeWars/CleverSplit.cs)
 * [Get Euchre Score](CodeWars/CodeWars/GetEuchreScore.cs)
 * [Calculate the function f(x) for a simple linear sequence (Medium)](CodeWars/CodeWars/CalculateTheFunction.cs)
+* [Christmas Present Calculator](CodeWars/CodeWars/ChristmasPresentCalculator.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
