@@ -236,6 +236,7 @@
 * [Calculate the function f(x) for a simple linear sequence (Medium)](CodeWars/CodeWars/CalculateTheFunction.cs)
 * [Christmas Present Calculator](CodeWars/CodeWars/ChristmasPresentCalculator.cs)
 * [pipi Numbers!](CodeWars/CodeWars/pipiNumbers!.cs)
+* [Array Helpers](CodeWars/CodeWars/ArrayHelpers.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
