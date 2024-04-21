@@ -238,6 +238,7 @@
 * [pipi Numbers!](CodeWars/CodeWars/pipiNumbers!.cs)
 * [Array Helpers](CodeWars/CodeWars/ArrayHelpers.cs)
 * [Find The Duplicated Number in a Consecutive Unsorted List](CodeWars/CodeWars/FindTheDuplicatedNumberInAConsecutiveUnsortedList.cs)
+* [Custom Christmas Tree](CodeWars/CodeWars/CustomChristmasTree.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
