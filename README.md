@@ -240,6 +240,7 @@
 * [Find The Duplicated Number in a Consecutive Unsorted List](CodeWars/CodeWars/FindTheDuplicatedNumberInAConsecutiveUnsortedList.cs)
 * [Custom Christmas Tree](CodeWars/CodeWars/CustomChristmasTree.cs)
 * [Clock Patience](CodeWars/CodeWars/ClockPatience.cs)
+* [Square string tops](CodeWars/CodeWars/SquareStringTops.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
