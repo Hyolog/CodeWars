@@ -243,6 +243,7 @@
 * [Square string tops](CodeWars/CodeWars/SquareStringTops.cs)
 * [Simple sum of pairs](CodeWars/CodeWars/SimpleSumOfPairs.cs)
 * [Mr. Safety's treasures](CodeWars/CodeWars/MrSafetyTreasures.cs)
+* [Sequence convergence](CodeWars/CodeWars/SequenceConvergence.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
