@@ -242,6 +242,7 @@
 * [Clock Patience](CodeWars/CodeWars/ClockPatience.cs)
 * [Square string tops](CodeWars/CodeWars/SquareStringTops.cs)
 * [Simple sum of pairs](CodeWars/CodeWars/SimpleSumOfPairs.cs)
+* [Mr. Safety's treasures](CodeWars/CodeWars/MrSafetyTreasures.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
