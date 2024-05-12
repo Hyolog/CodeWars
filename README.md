@@ -244,6 +244,7 @@
 * [Simple sum of pairs](CodeWars/CodeWars/SimpleSumOfPairs.cs)
 * [Mr. Safety's treasures](CodeWars/CodeWars/MrSafetyTreasures.cs)
 * [Sequence convergence](CodeWars/CodeWars/SequenceConvergence.cs)
+* [Number Shortening Filter](CodeWars/CodeWars/NumberShorteningFilter.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
@@ -273,6 +274,7 @@
 * [Simple fraction to mixed number converter](CodeWars/CodeWars/SimpleFractionToMixedNumberConverter.cs)
 * [The Clockwise Spiral](CodeWars/CodeWars/TheClockwiseSpiral.cs)
 * [Buddy Pairs](CodeWars/CodeWars/BuddyPairs.cs)
+* [Fibo akin](CodeWars/CodeWars/FiboAkin.cs)
 
 ## 4 kyu
 * [Snail](CodeWars/CodeWars/Snail.cs)
