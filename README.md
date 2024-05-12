@@ -245,6 +245,7 @@
 * [Mr. Safety's treasures](CodeWars/CodeWars/MrSafetyTreasures.cs)
 * [Sequence convergence](CodeWars/CodeWars/SequenceConvergence.cs)
 * [Number Shortening Filter](CodeWars/CodeWars/NumberShorteningFilter.cs)
+* [Message from Aliens](CodeWars/CodeWars/MessageFromAliens.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
