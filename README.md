@@ -246,6 +246,7 @@
 * [Sequence convergence](CodeWars/CodeWars/SequenceConvergence.cs)
 * [Number Shortening Filter](CodeWars/CodeWars/NumberShorteningFilter.cs)
 * [Message from Aliens](CodeWars/CodeWars/MessageFromAliens.cs)
+* [Flip Your Stack](CodeWars/CodeWars/FlipYourStack.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
