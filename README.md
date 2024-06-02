@@ -248,6 +248,7 @@
 * [Message from Aliens](CodeWars/CodeWars/MessageFromAliens.cs)
 * [Flip Your Stack](CodeWars/CodeWars/FlipYourStack.cs)
 * [Baby Magpies](CodeWars/CodeWars/BabyMagpies.cs)
+* [Basics 08: Find next higher number with same Bits (1's)](CodeWars/CodeWars/FindNextHigherNumberWithSameBits.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
