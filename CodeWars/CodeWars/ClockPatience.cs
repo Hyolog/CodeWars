@@ -41,22 +41,22 @@ namespace CodeWars
             }
         }
 
-        private static Dictionary<int, Queue<string>> SetCards(string[] cards)
+        private static Dictionary<int, Stack<string>> SetCards(string[] cards)
         {
             // int : 시간(1~13), Queue<string> : 카드더미
-            var result = new Dictionary<int, Queue<string>>();
+            var result = new Dictionary<int, Stack<string>>();
             var index = 1;
 
             foreach (var card in cards)
             {
                 if (result.TryGetValue(index, out var stack))
                 {
-                    stack.Enqueue(card);
+                    stack.Push(card);
                 }
                 else
                 {
-                    var stk = new Queue<string>();
-                    stk.Enqueue(card);
+                    var stk = new Stack<string>();
+                    stk.Push(card);
                     result.Add(index, stk);
                 }
 
@@ -81,7 +81,7 @@ namespace CodeWars
                 if (dec.Count == 0)
                     break;
 
-                var card = dec.Dequeue();
+                var card = dec.Pop();
 
                 switch (card)
                 {
