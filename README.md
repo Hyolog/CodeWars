@@ -249,6 +249,7 @@
 * [Flip Your Stack](CodeWars/CodeWars/FlipYourStack.cs)
 * [Baby Magpies](CodeWars/CodeWars/BabyMagpies.cs)
 * [Basics 08: Find next higher number with same Bits (1's)](CodeWars/CodeWars/FindNextHigherNumberWithSameBits.cs)
+* [How much hex is the fish](CodeWars/CodeWars/HowMuchHexIsTheFish.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
