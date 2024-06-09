@@ -251,6 +251,7 @@
 * [Basics 08: Find next higher number with same Bits (1's)](CodeWars/CodeWars/FindNextHigherNumberWithSameBits.cs)
 * [How much hex is the fish](CodeWars/CodeWars/HowMuchHexIsTheFish.cs)
 * [Prize Draw](CodeWars/CodeWars/PrizeDraw.cs)
+* [Allocating Hotel Rooms](CodeWars/CodeWars/AllocatingHotelRooms.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
