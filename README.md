@@ -253,6 +253,7 @@
 * [Prize Draw](CodeWars/CodeWars/PrizeDraw.cs)
 * [Allocating Hotel Rooms](CodeWars/CodeWars/AllocatingHotelRooms.cs)
 * [T.T.T.#6: nth user](CodeWars/CodeWars/NthUuser.cs)
+* [Simple number triangle](CodeWars/CodeWars/SimpleNumberTriangle.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
