@@ -252,6 +252,7 @@
 * [How much hex is the fish](CodeWars/CodeWars/HowMuchHexIsTheFish.cs)
 * [Prize Draw](CodeWars/CodeWars/PrizeDraw.cs)
 * [Allocating Hotel Rooms](CodeWars/CodeWars/AllocatingHotelRooms.cs)
+* [T.T.T.#6: nth user](CodeWars/CodeWars/NthUuser.cs)
 
 ## 5 kyu
 * [Directions Reduction](CodeWars/CodeWars/DirectionsReduction.cs)
